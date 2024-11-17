@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 /desktop.ini
 /folderico-azure.ico
+/.idea
