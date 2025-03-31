@@ -1,6 +1,5 @@
 # pandas 不要和 py 檔同名，會報錯要你 import pandas 套件，例如: py 檔名為 pandas.py
 import pandas as pd
-import numpy as np
 
 # 建立氣溫和降雨量的 DataFrame
 temperature_data = {'日期': ['2023-04-01', '2023-04-02', '2023-04-03', '2023-04-04'],
